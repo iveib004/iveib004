@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![iveib004's GitHub stats](https://github-readme-stats.vercel.app/api?username=iveib004)](https://github.com/iveib004/github-readme-stats)
+
 <!--
 **iveib004/iveib004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
